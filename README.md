@@ -5,8 +5,7 @@ Ukrainian Diktor + Typewriter Layout
 ![Diktor](./diktorua.jpg)
 
 # Installation on windows
-Just run setup.exe from diktorru directory. It will install layout to the Russian layouts with name "diktorru"
-(i didn't setup it for ukrainian for now)
+Just run setup.exe from diktoruafixed directory. It will install layout to the Ukrainian layouts
 
 # Installation on Ubuntu/Debian
 
