@@ -1,3 +1,0 @@
-wget -P /usr/share/X11/xkb/symbols/ https://raw.githubusercontent.com/iddixx/diktor_ua/master/linux/diktor_ua
-sed -i'' '/! layout/a diktor_ua    Ukrainian Typewriter Diktor' /usr/share/X11/xkb/rules/evdev.lst /usr/share/X11/xkb/rules/base.lst
-sed -i'' '/<layoutlist\> <layout> <configItem> <name>diktor_ua</name> <!-- Keyboard indicator for Ukrainian ayouts --> <shortDescription>Ukrainian Typewriter Diktor</shortDescription> <description>Ukrainian</description> <languageList> <iso639Id>ukr</iso639Id> </languageList> </configItem> <variantList> ' /usr/share/X11/xkb/rules/evdev.xml /usr/share/X11/xkb/rules/base.xml
