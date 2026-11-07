@@ -7,7 +7,17 @@ Ukrainian Diktor + Typewriter Layout
 # Installation on windows
 Just run setup.exe from diktoruafixed directory. It will install layout to the Ukrainian layouts
 
-# Installation on Ubuntu/Debian
+# Installation on Debian based systems
+
+For auto installation just run these commands:
+
+```bash
+wget https://raw.githubusercontent.com/iddixx/diktor_ua/refs/heads/main/debian_install_diktor_ua.sh
+chmod +x debian_install_diktor_ua.sh
+./debian_install_diktor_ua.sh
+```
+
+# Manual installation 
 
 For manual installation, follow this steps:
 
